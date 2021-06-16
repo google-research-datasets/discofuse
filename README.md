@@ -26,8 +26,8 @@ DiscoFuse has two parts:
 
 File | Download | Source | Examples
 ---- | :------: | ------ | -----------------:
-**discofuse_v1_sports.tar.gz** | [Link](https://storage.googleapis.com/discofuse.appspot.com/discofuse_v1_sports.zip) | Sports articles | 44,177,443
-**discofuse_v1_wikipedia.tar.gz** | [Link](https://storage.googleapis.com/discofuse.appspot.com/discofuse_v1_wikipedia.zip) | Wikipedia | 16,642,323
+**discofuse_v1_sports.tar.gz** | [Link](https://storage.googleapis.com/gresearch/discofuse/discofuse_v1_sports.zip) | Sports articles | 44,177,443
+**discofuse_v1_wikipedia.tar.gz** | [Link](https://storage.googleapis.com/gresearch/discofuse/discofuse_v1_wikipedia.zip) | Wikipedia | 16,642,323
 
 For each part, we provide a random split to train (98% of the examples), development (1%) and test (1%) sets. In addition, as the original data distribution is highly skewed (see details in the paper), we also provide a balanced version for each part.
 
